@@ -19,7 +19,7 @@ A comprehensive guide to understanding and building language models from scratch
 - **Chapter 5**: Self-Attention and Multi-Head Attention
   - Scaled dot-product attention, implementation
  
-- **Chapter 6*: Constructing the Transformer Block
+- **Chapter 6**: Constructing the Transformer Block
   - Position-wise Feed-Forward network, layer normalization, pre-norm architecture
   
 - **Chapter 7**: Scaling Up to GPT
