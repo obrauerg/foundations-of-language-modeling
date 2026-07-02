@@ -27,7 +27,7 @@ A comprehensive guide to understanding and building language models from scratch
 
 ## Getting Started
 
-Download any chapter PDF to begin learning. Each includes theoretical explanations and practical PyTorch code examples.
+Each chapter is availabe and includes mathematical theoretical explanations and practical PyTorch code examples.
 
 ## Topics Covered
 
